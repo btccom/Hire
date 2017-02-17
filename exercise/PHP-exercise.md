@@ -21,7 +21,7 @@ API 文档地址：[https://getpocket.com/developer/docs/overview](https://getpo
 
 ## 技术选型
 
-后端语言使用 PHP，相关的工具请自行选择，如 Linux 版本、Web 服务器、数据库等。
+后端语言使用 PHP，相关的工具请自行选择，如 PHP 框架、Linux 版本、Web 服务器、数据库等。
 
 ## 提交
 
