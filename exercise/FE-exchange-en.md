@@ -68,9 +68,9 @@ An example of a real world system like this can be seen here:
     * then you need to pick a "root dir" for your golang projects so set `export GOPATH="~/golang"` or some other path where you prefer storing your go things.  
       you can put that line in your `~/.bashrc` so you don't have to keep doing it when you open new terminals.  
       also make sure that that directory exists ;)
-2. run `go get github.com/libreoscar/ethmarket_interview`, this will install the repo in your golang `src` folder
+2. run `go get github.com/btccom/ethmarket_interview`, this will install the repo in your golang `src` folder
 3. go into the place where it was installed  
-   `cd $GOPATH/src/github.com/libreoscar/ethmarket_interview`
+   `cd $GOPATH/src/github.com/btccom/ethmarket_interview`
 4. run `go run main.go` to start the backend
 5. you can now call the backend API
 6. you can also visit `http://localhost:9888/` for a tiny example project of using the backup API  
