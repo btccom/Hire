@@ -1,6 +1,6 @@
 # Summary
 
-Design a trading platform Web UI, including order list and match list.
+Build a trading platform Web UI, including order list and match list.
 
 A order has the following fields: id:int, type:string(buy or sell), quantity:int, price:int, eg:
 
@@ -60,7 +60,7 @@ IN the real world the matching of matches would ofcourse be done in a backend sy
 An example of a real world system like this can be seen here:
  * https://www.okcoin.com/market-btc.html (at the bottom you can see Orders and Trades)
 
-## Download code & submit
+## Download backend code
 
 1. install golang locally (v1.6 or higher)
   * on ubuntu just do the following:
@@ -77,5 +77,17 @@ An example of a real world system like this can be seen here:
    it just fetches the first 100 orders and lists them.  
    if you want to see the source of this stream you can checkout the `static` directory (it's Vue.js code)
 
-build your own frontend in a seperate (clean) repo and just connect to the backend API (so **don't** build into the example project).  
+## What is expected of you
+
+Build your own frontend in a seperate (clean) repo and just connect to the backend API (so **don't** build into the example project).  
 When you finished, please check in the code to your github and send us the URL of the repo.
+
+You can (and should) use a frontend framework of your choosing.
+
+This exercise does **NOT** require you to write (or even read) any of the backend code, 
+it's purely focused on consuming the data from the backend API and processing + displaying it!
+
+## Extra
+
+As an example case of orders being matched you can check this gist; https://gist.github.com/rubensayshi/65989f3f4e19036e16aab12216fbc9bd  
+It describes a couple of incoming orders from the backend API and the state changes that happen when processing them.
