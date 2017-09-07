@@ -35,7 +35,7 @@ BTC.com 隶属于北京比特大陆科技有限公司。北京比特大陆科技
 #### The Successful Applicant / 理想的求职者
 
 * 两年以上的Web开发经验
-* 精通Javascript，熟悉CSS
+* 精通JavaScript，熟悉CSS
 * 熟悉Bootstrap等UI框架
 * 熟悉AngularJS，Vue.js或React.js等前端框架
 * 熟悉响应式设计
@@ -50,7 +50,7 @@ BTC.com 隶属于北京比特大陆科技有限公司。北京比特大陆科技
 * 数字货币爱好者，对比特币、区块链、其他数字货币等有一定兴趣，或参与过相关项目；
 * 流利的英文阅读沟通能力，跨国、远程团队合作经验；
 
-### 高级C++开发工程师
+### 高级C\+\+开发工程师
 
 #### Job Description
 
@@ -58,11 +58,11 @@ BTC.com 隶属于北京比特大陆科技有限公司。北京比特大陆科技
 
 #### The Successful Applicant/理想的求职者
 
-* 两年以上后端开发经验，熟练掌握C++；
-* 熟悉Linux下C/C++系统开发，性能调优，故障分析等，高效使用工具链；
+* 两年以上后端开发经验，熟练掌握C\+\+；
+* 熟悉Linux下C/C\+\+系统开发，性能调优，故障分析等，高效使用工具链；
 * 熟悉事件驱动开发，熟练使用libevent, libev等开发库；
 * 了解SQL, NoSQL等存储系统以及各自应用场景，性能极限等；
-* 了解常见数据队列系统，ZMQ/Kafka/RabbitMQ等；
+* 了解常见消息队列系统，ZeroMQ/Kafka/RabbitMQ等；
 * 千万级以上数据存储、读取、处理经验；
 * 良好的英文读写能力。
 
@@ -82,9 +82,9 @@ BTC.com 隶属于北京比特大陆科技有限公司。北京比特大陆科技
 
 #### The Successful Applicant/理想的求职者
 
-* 两年以上C++、Node.js或Golang的开发经验，良好的编程风格
+* 两年以上C\+\+、Node.js或Golang的开发经验，良好的编程风格
 * 熟悉关系数据库和Key-Value数据库
-* 了解常见数据队列系统，ZMQ/Kafka/RabbitMQ等
+* 了解常见数据队列系统，ZeroMQ/Kafka/RabbitMQ等
 * 熟悉Linux开发环境，熟悉Git或其它代码管理工具
 * 良好的英文读写能力
 
@@ -111,7 +111,7 @@ BTC.com 隶属于北京比特大陆科技有限公司。北京比特大陆科技
 #### The Successful Applicant/理想的求职者
 
 * 具备丰富的Linux生产环境运维经验，有100台以上服务器管理经验，多地部署经验
-* 熟练掌握至少一种自动化运维工具（ansible/saltstack）
+* 熟练掌握至少一种自动化运维工具（Ansible/Saltstack）
 * 熟练使用Docker
 * 了解(Nginx/OpenResty)，掌握常见使用场景并能合理配置
 * 掌握常见自动化集成工具，比如Jenkins
@@ -120,7 +120,7 @@ BTC.com 隶属于北京比特大陆科技有限公司。北京比特大陆科技
 * 能够搭建仿真生产环境，熟练使用tcpcopy等流量复制工具
 * 有MySQL集群管理经验
 * 掌握常见负载均衡方案
-    
+	
 #### 加分项
 	
 * 有 NoSQL 数据库管理经验，包括 Redis，ssdb，RocksDB
@@ -141,7 +141,7 @@ BTC.com 隶属于北京比特大陆科技有限公司。北京比特大陆科技
 * 有3年以上Android开发经验；
 * 熟悉Android平台的开发技术、系统框架原理和底层库；
 * 熟悉Kotlin；
-* 深入了解Android系统框架和SDK，熟悉OKHttp, Retrofit, RxJava,Gson等；
+* 深入了解Android系统框架和SDK，熟悉OKHttp, Retrofit, RxJava, Gson等；
 * 对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 * 对手机软件性能优化、内存优化有一定经验；
 * 能独立开发APP，有成功发布APP者优先；
