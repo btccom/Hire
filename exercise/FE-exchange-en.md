@@ -38,7 +38,7 @@ If the number of last order, mark as n, in the memory in less than 110, it will 
 Example Output:
 
 ```
-[{"number":10,"side":"sell","quantity":13,"price":160},{"number":11,"side":"sell","quantity":10,"price":87}]
+[{"id":10,"side":"sell","quantity":13,"price":160},{"id":11,"side":"sell","quantity":10,"price":87}]
 ```
 
 2. `GET /reset`
@@ -61,21 +61,9 @@ An example of a real world system like this can be seen here:
  * https://www.okcoin.com/market-btc.html (at the bottom you can see Orders and Trades)
 
 ## Download backend code
-
-1. install golang locally (v1.6 or higher)
-  * on ubuntu just do the following:
-    * `sudo apt-get install golang-go`
-    * then you need to pick a "root dir" for your golang projects so set `export GOPATH="~/golang"` or some other path where you prefer storing your go things.  
-      you can put that line in your `~/.bashrc` so you don't have to keep doing it when you open new terminals.  
-      also make sure that that directory exists ;)
-2. run `go get github.com/btccom/ethmarket_interview`, this will install the repo in your golang `src` folder
-3. go into the place where it was installed  
-   `cd $GOPATH/src/github.com/btccom/ethmarket_interview`
-4. run `go run main.go` to start the backend
-5. you can now call the backend API
-6. you can also visit `http://localhost:9888/` for a tiny example project of using the backup API  
-   it just fetches the first 100 orders and lists them.  
-   if you want to see the source of this stream you can checkout the `static` directory (it's Vue.js code)
+1. You can checkout the repo with the backend code from here: https://github.com/btccom/fe-exercise-backend  
+2. `npm install` -> `node app.js`
+3. `http://localhost:5001/listOrders`
 
 ## What is expected of you
 
