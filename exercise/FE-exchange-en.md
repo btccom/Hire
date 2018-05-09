@@ -58,7 +58,7 @@ You can call this to reset the backend and clear up all the orders (for testing 
 IN the real world the matching of matches would ofcourse be done in a backend system,, but for this exercise the matching of the orders should be done in the frontend codebase.
 
 An example of a real world system like this can be seen here:
- * https://www.okcoin.com/market-btc.html (at the bottom you can see Orders and Trades)
+ * https://www.okcoin.com/market#product=btc_usd (at the bottom you can see Orders and Trades)
 
 ## Download backend code
 1. You can checkout the repo with the backend code from here: https://github.com/btccom/fe-exercise-backend  
